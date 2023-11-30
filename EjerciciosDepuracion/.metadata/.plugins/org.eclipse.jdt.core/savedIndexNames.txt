@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\gamero.rofra24_trian\Desktop\DAM\Entornos de Desarrollo\EjerciciosDepuracion\.metadata\.plugins\org.eclipse.jdt.core
+1168517952.index
+3413725848.index
+1865797976.index
